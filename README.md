@@ -19,6 +19,11 @@ conda install scikit-learn
 \<path to your anaconda3\>/envs/DFNet/bin/pip install opencv-contrib-python
 
 # Training
-
+1. Download imagenet-vgg-m.mat in /models and ILSVRC2015 in /dateset.
+2. Run pretrain_rtmdnet_DFNet.py
+3. Download GTOT and RGBT234 in /dataset
+4. Run train_rtmdnet_DFNet.py
 
 # Testing
+1. Select model_path
+2. Run Run_rtmdnet_DFNet.py
