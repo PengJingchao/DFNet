@@ -12,7 +12,7 @@ conda install scikit-learn
 ```
 
 ## Training
-1. Download imagenet-vgg-m.mat in /models and ILSVRC2015 in /dateset.
+1. Download imagenet-vgg-m.mat in /models, imagenet_refine.pkl in /data, and ILSVRC2015 in /dateset.
 2. Run pretrain_rtmdnet_DFNet.py
 3. Download GTOT and RGBT234 in /dataset
 4. Run train_rtmdnet_DFNet.py
