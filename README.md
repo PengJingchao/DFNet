@@ -8,7 +8,8 @@ conda install tensorboardX
 conda install scipy
 conda install scikit-learn
 \<path to your anaconda3\>/envs/DFNet/bin/pip install opencv-python
-\<path to your anaconda3\>/envs/DFNet/bin/pip install opencv-contrib-python```
+\<path to your anaconda3\>/envs/DFNet/bin/pip install opencv-contrib-python
+```
 
 # Training
 1. Download imagenet-vgg-m.mat in /models and ILSVRC2015 in /dateset.
